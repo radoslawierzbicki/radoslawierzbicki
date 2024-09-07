@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Radosław Wierzbicki, a passionate and motivated student specializing in Sound and Vision Engineering at the Gdańsk University of Technology. 
+
+- 🔭 I’m currently working on my Master’s thesis, where I’m implementing and assessing a table tennis serve using machine learning techniques 🏓🤖.
+- 🌱 I’m currently deepening my knowledge in machine learning, artificial intelligence, and multimedia systems.
+- 👯 I’m looking to collaborate on projects related to audio/video synchronization, multimedia systems, and machine learning applications in sound and vision engineering.
+- 📫 How to reach me: You can contact me at radoslawierzbicki34@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rados%C5%82aw-wierzbicki/)
+.
+- ⚡ Fun fact: I’m an avid table tennis player 🏓, competing in the second league, and I enjoy playing the guitar in my free time 🎸.
+
+  
 <!--
 **radoslawierzbicki/radoslawierzbicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
