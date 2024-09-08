@@ -31,7 +31,6 @@ I'm Radosław Wierzbicki, a passionate and motivated student specializing in Sou
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
 <!--
